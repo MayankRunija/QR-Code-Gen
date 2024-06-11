@@ -14,7 +14,7 @@ To successfully build this project, the following prerequisites are essential:
 ##### JavaScript ES6: The latest version of JavaScript, offering modern syntax and features for enhanced development efficiency.
 
 
-### Web-App Link :
+### Web-App Link :https://qr-code-gen-dc9fa.web.app/
 ### Sorce-Code Link :https://github.com/MayankRunija/QR-Code-Gen
 
 
